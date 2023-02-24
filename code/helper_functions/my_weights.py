@@ -1,6 +1,6 @@
-# I've only used this function with limited data and haven't tested it --Emilio Lehoucq 3/14/23
+# I've only used this function with limited data and haven't tested it --Emilio Lehoucq 2/24/23
 
-def weights_univariate(df, col_name, weight_name, format = 'proportions', rounded = False):
+def weights_univariate(df, col_name, weight_name, format_output = 'proportions', rounded = False):
     """
     Function to calculate weighted proportions or percentages.
     
@@ -27,7 +27,7 @@ def weights_univariate(df, col_name, weight_name, format = 'proportions', rounde
     total_count = sum(counts_per_group)
 
     # Calculate proportions or percentages:
-    if format == 'proportions':
+    if format_output == 'proportions':
         result = counts_per_group / total_count
     else:
         result = counts_per_group * 100 / total_count
