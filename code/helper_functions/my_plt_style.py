@@ -26,9 +26,9 @@ def my_plt_style(ax, title, xgrid = False, ygrid = False, grid = False):
     ax.spines['left'].set_visible(False)
     
     # Add grid:
-    if xgrid == True:
+    if xgrid:
         ax.xaxis.grid(linestyle = '--', color = 'lightgrey')
-    elif ygrid == True:
+    elif ygrid:
         ax.yaxis.grid(linestyle = '--', color = 'lightgrey')
-    elif grid == True:
+    elif grid:
         ax.grid(linestyle = '--', color = 'lightgrey')
