@@ -10,6 +10,7 @@ This repository contains the code and the plots that I use for some of [my Linke
 
 **Posts where I share thoughts about data and technology:**
 
+- Practical advice on how to use ChatGPT to help you code [(link to post)](https://www.linkedin.com/posts/emilio-l_chatgpt-code-advice-activity-7128462672576053248-pkca?utm_source=share&utm_medium=member_desktop)
 - Useful book about how to communicate numbers effectively [(link to post)](https://www.linkedin.com/posts/emilio-l_making-numbers-count-the-art-and-science-activity-6955468803992338432-n3Rd?utm_source=share&utm_medium=member_desktop)
 - Recommended books to understand the technology industry [(link to post)](https://www.linkedin.com/posts/emilio-l_technology-activity-7016830916022992896-ijgw?utm_source=share&utm_medium=member_desktop)
 - Great book on product development [(link to post)](https://www.linkedin.com/posts/emilio-l_inspired-how-to-create-tech-products-customers-activity-6930614779992563712-6Lc-?utm_source=share&utm_medium=member_desktop)
