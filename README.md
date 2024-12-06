@@ -10,6 +10,7 @@ This repository contains the code and the plots that I use for some of [my Linke
 
 **Posts where I share thoughts about data and technology:**
 
+- Why I love Spotify Wrapped [(link to post)](https://www.linkedin.com/posts/emilio-l_spotifywrapped-datascience-privacy-activity-7270446646214221824-Artm?utm_source=share&utm_medium=member_desktop)
 - The importance and potential deceptiveness of metrics... looking at the medals in the Olympics2024 [(link to post)](https://www.linkedin.com/posts/emilio-l_metrics-olympics2024-data-activity-7224106444021805056-5mZV?utm_source=share&utm_medium=member_desktop)
 - Python or R for data science? [(link to post)](https://www.linkedin.com/posts/emilio-l_python-r-datascience-activity-7142574252913754112-6lSQ?utm_source=share&utm_medium=member_desktop)
 - Practical advice on how to use ChatGPT to help you code [(link to post)](https://www.linkedin.com/posts/emilio-l_chatgpt-code-advice-activity-7128462672576053248-pkca?utm_source=share&utm_medium=member_desktop)
